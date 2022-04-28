@@ -1,0 +1,45 @@
+.main{
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+    background-color: white;
+}
+#form{
+    width: 70%;
+    height: 30%;
+    margin: auto;
+    background-color: white;
+    padding-left: 10%;
+    padding-top: 10%;
+    
+   
+}
+
+.Add{
+    width: 30%;
+    height: 20%;
+    
+    margin-left: 0%;
+}
+button{
+    width: 100%;
+    height: 100%;
+    
+}
+#res{
+    width: 80%;
+    height: 50%;
+    
+    background-color: white;
+
+}
+#res table{
+    margin: auto;
+    
+}
+#res table th{
+    padding: 5%;
+}
+#res table td{
+    padding-left: 11%;
+}
